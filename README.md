@@ -32,8 +32,8 @@ For more details on the components, check out the product page: [OBS Scene Contr
 
 ## Downloads
 
-- **Enclosure STL Files**: [Download](#) the 3D-printable files for the top and bottom enclosure.
-- **Schematics & Code**: [Download](#) the wiring schematics and Arduino code.
+- **Enclosure STL Files**: Download the 3D-printable files for the top and bottom enclosure.
+- **Schematics & Code**: Download the wiring schematics and Arduino code.
 
 > **Note:** The code is being updated regularly. Be sure to check back for new features or bug fixes.
 
